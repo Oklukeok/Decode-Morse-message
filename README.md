@@ -62,15 +62,12 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Decode Morse] <a name="about-project"></a>
 
-> We created a Decode Morse App, it's like "The imitation game" movie, but made with Ruby instead of gears.
-
-**[your_project__name]** is a...
+**[Decode Morse]** a Decode Morse App, it's like "The imitation game" movie, but made with Ruby instead of gears.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="RUBY"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -144,7 +141,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:Oklukeok/Decode-Morse-message.git
 ```
 --->
 
