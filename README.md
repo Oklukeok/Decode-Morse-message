@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Decode Morse App</b></h3>
 
 </div>
 
@@ -40,7 +40,7 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
+    - [Ruby](#Ruby)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
@@ -60,9 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Decode Morse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> We created a Decode Morse App, it's like "The imitation game" movie, but made with Ruby instead of gears.
 
 **[your_project__name]** is a...
 
@@ -205,17 +205,17 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Lucas Bermudez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/oklukeok)
+- Twitter: [@twitterhandle](https://twitter.com/ok_Lukee)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/lucas-bermudez)
 
-👤 **Author2**
+ 👤**Javivy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Javivy](https://github.com/Javivy)
+- LinkedIn: [Javier Vargas](https://www.linkedin.com/in/javier-alejandro-vargas-ortega)
+- Twitter [@Javivy_2803](https://twitter.com/Javivy_2803)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
